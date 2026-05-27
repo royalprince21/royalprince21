@@ -80,8 +80,8 @@ Currently pursuing a Master's degree in **Data Science & Artificial Intelligence
 ### 🤖 Machine Learning & Data Science Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,xgboost" />
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+  
   <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logo=xgboost&logoColor=white" />
 
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
