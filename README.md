@@ -107,6 +107,33 @@ Currently pursuing a Master's degree in **Data Science & Artificial Intelligence
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
+
+### 🤖 Machine Learning & Data Science Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy" />
+  
+  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
+---
+
+### ☁️ Databases, Cloud & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,docker,git,github,vscode,linux" />
+  
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+  
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
 ---
 
 # 📈 GitHub Stats
