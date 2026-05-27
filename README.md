@@ -41,7 +41,7 @@ Currently pursuing a Master's degree in **Data Science & Artificial Intelligence
 - Achieved **96% Accuracy** and **0.99 ROC-AUC Score** through model optimization and tuning
 - Developed and deployed an interactive API-based prediction application using **FastAPI**
 
-🔗 Live Demo | <a href="https://github.com/royalprince21/diabetes-prediction" target="_blank">📂 GitHub Repository</a>
+🔗 Live Demo | <a href="https://github.com/royalprince21/Diabetes-Prediction-ML" target="_blank">📂 GitHub Repository</a>
 
 ---
 
@@ -53,7 +53,7 @@ Currently pursuing a Master's degree in **Data Science & Artificial Intelligence
 - Performed data visualization and exploratory analysis to identify customer booking trends
 - Improved model performance through feature selection, preprocessing, and evaluation metrics
 
-🔗 Live Demo | <a href="https://github.com/royalprince21/diabetes-prediction" target="_blank">📂 GitHub Repository</a>
+🔗 Live Demo | <a href="https://github.com/royalprince21/British-Airways-Buying-Behaviour-ML" target="_blank">📂 GitHub Repository</a>
 
 ---
 
