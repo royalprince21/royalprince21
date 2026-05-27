@@ -127,8 +127,8 @@ Currently pursuing a Master's degree in **Data Science & Artificial Intelligence
 
 <div align="center">
 
-<a href="mailto:royalprince1995@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+<a href="mailto:royal-prince.alex-john@edu.dsti.institute">
+  <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
 
 <a href="https://www.linkedin.com/in/royal-prince/" target="_blank">
