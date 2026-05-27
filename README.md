@@ -1,7 +1,7 @@
 <img src="https://media.licdn.com/dms/image/v2/D5612AQH-vhk2PaEILw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1681124230123?e=2147483647&v=beta&t=7oaKdBrYDrESJKU70TDyYIU4O3wOB78p2djOSVnych0" width="100%" height="290"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Royal+Prince+Alex+John!+💻;+Aspiring+Data+Scientist+%26+Machine+Learning+Engineer+🚀;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Royal+Prince+Alex+John!+💻;+Aspiring+Data+Scientist+%20+Machine+Learning+Engineer+🚀;" />
 </h1>
 
 <h3 align="center">
