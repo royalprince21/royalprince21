@@ -1,4 +1,4 @@
-md id="lxrkbh"
+
 <img src="https://media.licdn.com/dms/image/v2/D5612AQH-vhk2PaEILw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1681124230123?e=2147483647&v=beta&t=7oaKdBrYDrESJKU70TDyYIU4O3wOB78p2djOSVnych0" width="100%" height="290"/>
 
 <h1 align="center">
